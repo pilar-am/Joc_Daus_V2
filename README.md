@@ -1,7 +1,7 @@
-# Joc_Daus_V2
+# JOC DE DAUS VERSIÓ 2
 
-JOC DE DAUS VERSIÓ 2
-API on es gestiona un joc de daus, amb usuaris i partides dels usuaris amb base de dades no relacional(MongoDb)
+
+### API on es gestiona un joc de daus, amb usuaris i partides dels usuaris amb base de dades no relacional(MongoDb)
 
 http://localhost:8080/players  Un jugador es pot inscriure amb el seu nom o de forma anònima
 http://localhost:8080/players  Retorna la llista dels usuaris amb el ranking actualitzat
